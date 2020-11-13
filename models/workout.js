@@ -10,6 +10,8 @@ const workoutSchema = new Schema(
     },
     exercises: [
         {
+            type:
+            {
             type: String,
             trim: true,
             required: "Enter exercise TYPE"
@@ -33,9 +35,8 @@ const workoutSchema = new Schema(
         },
         duration:
         {
-            type:
-        }
-
+            type: Number
+        },
     distance: {
         type: Number
     },
