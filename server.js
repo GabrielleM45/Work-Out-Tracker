@@ -19,7 +19,7 @@ mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/Workout", {
     useUnifiedTopology: true,
     useCreateIndex: true,
     useFindAndModify: false
-      });
+});
 
 
 // routes
