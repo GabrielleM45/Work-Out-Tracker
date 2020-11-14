@@ -16,8 +16,8 @@
 
 
 
-**Start application
- ![picture](./assets/start.gif
+*Start application*      
+ ![picture](./assets/start.gif)
 
 
 
@@ -30,8 +30,8 @@
 
 
 
-*Enter exercise
- ![picture]./assets/entry.gif
+*Enter exercise*      
+ ![picture](./assets/entry.gif)
 
 
 
@@ -43,8 +43,8 @@
 
 
 
-*Workout Dashboard
- ![picture]./assets/dashboard.gif)
+*Workout Dashboard*       
+ ![picture](./assets/dashboard.gif)
 
 
 
@@ -69,9 +69,8 @@ https://intense-eyrie-50005.herokuapp.com/
   * [Description](#Description)
   * [Deployed Website](#Deployed)
   * [Installation](#Installation)
-  // * [Usage](#Usage)
+  * [Usage](#Usage)
   * [Contributing](#Contributing)
-  * [Tests](#Tests)
   * [Questions](#Questions)
   * [Author](#Author)
   * [License](#License)
@@ -90,9 +89,8 @@ https://intense-eyrie-50005.herokuapp.com/
   Individuals may contribute by contacting the author directly.
 
 
-  ## Tests
-
-
+ 
+ 
 
   ## Questions
   Please send any questions or comments to the author listed below.
